@@ -35,7 +35,7 @@
   </a> 
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=GabrieleZito&show_icons=true&theme=merko)
+
 
 ![](https://komarev.com/ghpvc/?username=GabrieleZito&color=brightgreen)
 
